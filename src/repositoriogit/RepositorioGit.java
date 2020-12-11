@@ -3,7 +3,7 @@ package repositoriogit;
 
 /**
  *
- * @author dam
+ * @author David Hidalgo
  */
 public class RepositorioGit {
 
