@@ -15,7 +15,8 @@ public class EjercicioGit2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("linea de prueba de principal");
+        System.out.println("segunda linea de prueba");
     }
     
 }
