@@ -17,6 +17,8 @@ public class EjercicioGit2 {
     public static void main(String[] args) {
         System.out.println("linea de prueba de principal");
         System.out.println("segunda linea de prueba");
+        System.out.println("líneas en el método main");
+  
     }
     
 }
